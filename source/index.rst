@@ -1,10 +1,9 @@
-Replace this with your project title
-====================================
+MIS-340-WEB Assignments
+=======================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Sessions:
 
-   subject/index
-   another_subject/index
-   more_stuff/index
+   sessions/20220116/index
+   sessions/20220123/index

@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sample Project Name'
-copyright = '2021, Jane Smith'
-author = 'Jane Smith'
+project = 'MIS-340-WEB Assignments'
+copyright = '2022, Matt Burns'
+author = 'Matt Burns'
 
 
 # -- General configuration ---------------------------------------------------
