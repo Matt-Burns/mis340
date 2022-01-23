@@ -1,59 +1,24 @@
 January 16 2022
 ===============
 
-Textbook
---------
+Textbook: CHAPTER 1 - Introduction to Systems Analysis and Design
+-----------------------------------------------------------------
+**Provide responses to the following "Discussion Topics":**
 
-Cras pharetra ut felis nec
-feugiat. Donec ut mauris tristique, fermentum ipsum et, laoreet dolor. Vivamus
-congue nisi id elit fringilla varius. Quisque maximus nec nisl id egestas. Fusce
-sagittis, metus at porta eleifend, dui massa ullamcorper risus, in tempus sem
-quam id sapien. Vivamus tempor ligula id nunc lobortis posuere. Sed eget ipsum
-velit. Nulla vulputate ipsum sed magna porttitor, sit amet elementum ante ultricies.
-Nam scelerisque lectus sodales erat iaculis, vitae pellentesque magna facilisis.
+* **When team members are geographically dispersed, communication becomes more challenging. Explain how groupware can increase user productivity in this context.**
 
-Aliquam ex lorem, molestie at finibus quis, ullamcorper et purus. Pellentesque
-habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur
-ridiculus mus. Vivamus dictum interdum pulvinar.
+  * In my experience groupware type apps offer much more than simple text based chat. Groupware typically offers more communication features such as voice/video chat/conferencing. But groupware really shines as a communication capture/organization tool. While facilitating communication groupware can capture and categorize all communication between team members allowing for greater success in documenting and disseminating vital information or work tasks to a large group of people.
 
-In molestie augue id orci
-aliquet vehicula. Donec ullamcorper, lectus in molestie consequat, magna erat
-rhoncus sapien, sit amet semper ante elit non purus. Cras ac laoreet neque.
-Aenean maximus lacus elementum neque ultricies, tristique tincidunt lacus
-lobortis. Proin molestie bibendum neque et euismod. Aliquam eu dictum diam.
-Pellentesque quis porta urna.
+* **Under what circumstances should a systems analyst recommend an agile methodology over structured development or object-oriented analysis?**
+
+  * In my personal experience structured development and object orientated analysis works best for teams working in well defined and/or small project spaces. If teams can't quickly and easily agree on basic things such as project due dates, team member work/life balance, or final details of a finished product then structured development techniques run the risk of busying team members with tasks solely required for the techniques process and not the product. Similarly object orientated design systems general disagreements can force team members to spin cycles hashing out disagreements over the smallest of object definitions. Either way company's expose themselves to risks that ultimately delay timelines and add to the bottom line. I feel Agile at least offers team members a chance to sit and discuss the project space in an effort to define projects with clear scope and end goals. Ultimately its up to the team to decide what methodology will work best. However Agile has a slight advantage when it comes to projects that still require many details to be worked out.
+
+* **Rapid advancements in areas such as machine learning and predictive analytics in data science are affecting the daily operations of many IT departments. What should a systems analyst do to stay current?**
+
+  * I think the only way a systems analyst or anybody really can stay current is to immerse him or herself in the technology he or she finds most interesting. Typically this entails having a job working with the technology, or working with the technology in one's free time, or maybe going to conventions to meet others involved with the tech, or I suppose there are internet groups for that kind of stuff now so like join one of those. Anyway have a genuine interest in it and get involved. It's the only way.
+
 
 Reflection
 ----------
 
-Aliquam tempus urna diam, eu sagittis magna porta eu. Fusce aliquam nunc vitae
-lectus vulputate, quis commodo augue molestie. Vestibulum fermentum nunc odio,
-et dapibus eros porttitor at. Phasellus auctor, elit nec ultricies fermentum,
-sem augue volutpat mi, eget malesuada metus purus ut dolor. Aenean posuere
-tortor ligula, vitae ultrices tellus eleifend ac. Morbi velit magna,
-sollicitudin vitae aliquet sed, tincidunt non enim. Vivamus tempus eros ac
-purus varius suscipit. Aliquam eu egestas metus.
-
-Morbi augue turpis, imperdiet non turpis quis, consequat varius quam.
-Suspendisse imperdiet dapibus arcu viverra aliquam. Fusce eu mauris turpis.
-Nullam auctor, purus et imperdiet tristique, lacus lorem vehicula sapien,
-a tempus quam ex vitae mi. Cras nec lobortis mi. Integer ultricies ornare
-sagittis. Praesent elementum sem justo, vel rhoncus orci fringilla vitae.
-Sed gravida urna neque, vel convallis metus dapibus ut. Mauris euismod quam
-ante, quis interdum erat viverra id. Aliquam bibendum laoreet odio at imperdiet.
-Morbi placerat, leo id tincidunt iaculis, nulla nunc luctus massa, et vulputate
-nisi est et nibh. In gravida ut ligula non sodales. Phasellus porttitor varius
-iaculis.
-
-Maecenas malesuada blandit tellus, id fringilla sem tempor eget. Morbi maximus
-euismod bibendum. Maecenas sit amet dolor ut orci tristique elementum.
-Suspendisse scelerisque porta metus, at tincidunt mi. Duis et mauris at enim
-finibus maximus. Nunc vel justo ex.
-
-Vivamus ultricies eros ante, nec egestas
-lorem fermentum id. Aliquam erat volutpat. Aenean tempus eu mi a elementum.
-Donec sit amet iaculis sapien. Proin imperdiet hendrerit sem quis tempus.
-Etiam metus augue, ornare consequat magna ut, malesuada mollis erat. Etiam
-porta efficitur sapien sed congue. In tristique est urna, sit amet varius
-enim finibus sed.
+I have to admit, having a number of years of experience with software development it's hard not to bring my experience to the material. I truly want to see a lot of the software world as it exists now with new eyes. I recently changed employers (regulated institution development to technology driven institution) and feel like I shook off my old mantle in sheer excitement of getting a new one. Unfortunately my real life experience with concepts like The Information Technology Department, The Systems Analyst, and Organizational Information Models have been... bewildering? Bewildering enough to leave me very skeptical about the value some job roles actually provide as well as very defensive of my work time. Anyway, for whatever that was worth that's the bias I'm bringing to the chapter. From my "developer" perspective I feel as though projects only get done when a group of bright, motivated individuals work together to achieve a common goal. I have yet to work in an environment where that has not been so. I don't see how mapping out standard processes for dealing with real life situations leads to bright, motivated individuals working together to achieve a common goal. I have no data to back me up but I think a very large number of projects succeed because of the people and not the process.
