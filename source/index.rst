@@ -7,3 +7,4 @@ MIS-340-WEB Assignments
 
    sessions/20220116/index
    sessions/20220123/index
+   sessions/20220130/index
